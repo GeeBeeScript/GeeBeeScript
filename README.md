@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The Wisdom Room](https://www.thewisdomroom.net/)
 
-- 🌱 I’m currently learning **Nest.js and AWS**
+- 🌱 I’m currently learning **Nest.js and Redis**
 
 - 👯 I’m looking to collaborate on **any software project**
 
